@@ -3,7 +3,8 @@
 
 提示：本工具仅供学习和合法网络优化使用，请遵守当地法律法规。
 
-<img width="533" height="552" alt="QQ图片20260105113558" src="https://github.com/user-attachments/assets/af8eaca2-bded-4720-ae06-516e8b4dfbb2" />
+<img width="562" height="608" alt="cfs" src="https://github.com/user-attachments/assets/f6700c3a-484f-48d0-80b6-405f71987e45" />
+
 
 🚀 高效扫描：自动从 CloudFlare 官方 IP 段生成 IP 地址
 
