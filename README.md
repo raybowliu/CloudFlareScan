@@ -25,5 +25,6 @@ CloudFlare 扫描器 （简称CFS)  适配 Win  macOS
 win-X64 直接下载使用
 
 macOS arm 安装提前 需要将安全性与隐私里-选择允许从任何来源
+终端输入命令：sascript -e 'do shell script "sudo spctl --master-disable" with administrator privileges'
 
 
