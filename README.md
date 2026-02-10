@@ -28,7 +28,7 @@ macOS arm 安装提前 需要将安全性与隐私里-选择允许从任何来�
 
 终端输入命令：sascript -e 'do shell script "sudo spctl --master-disable" with administrator privileges'
 
-## 感谢您右上角加Star🌟
-[![Star History Chart](https://api.star-history.com/svg?repos=duquancai/cf-vless-st&type=Date)](https://www.star-history.com/#duquancai/cf-vless-st&Date)
+
+
 
 
